@@ -1,0 +1,550 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.home--yzd {
+  width: 100%;
+  height: 102.4rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #fcfcfc;
+  border-radius: 3.3rem;
+}
+.home--yzd .rectangle-18-9Gq {
+  width: 92.3rem;
+  height: 31.1rem;
+  position: absolute;
+  left: 52.9rem;
+  top: 63.8rem;
+  background-color: #d9d9d9;
+}
+.home--yzd .oath-2-1-dSu {
+  width: 41.9rem;
+  height: 27.3rem;
+  position: absolute;
+  left: 99.7rem;
+  top: 65.1rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2.2rem;
+}
+.home--yzd .a64fed06f6719692a2d14-1-wCh {
+  width: 3.9rem;
+  height: 3.7rem;
+  position: absolute;
+  left: 135.4rem;
+  top: 13.4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.home--yzd .rectangle-5-Sv9 {
+  width: 147.8rem;
+  height: 12.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #003e11;
+}
+.home--yzd .staff-9pZ {
+  width: 5.7rem;
+  height: 2rem;
+  position: absolute;
+  left: 85.4rem;
+  top: 5.5rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.23;
+  color: #ffffff;
+  font-family: Libre Caslon Text, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home--yzd .about-oeD {
+  width: 6.4rem;
+  height: 2rem;
+  position: absolute;
+  left: 103.2rem;
+  top: 5.3rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.23;
+  color: #ffffff;
+  font-family: Libre Caslon Text, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home--yzd .home-K6m {
+  width: 5.8rem;
+  height: 2rem;
+  position: absolute;
+  left: 94.4rem;
+  top: 5.5rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.23;
+  color: #ffffff;
+  font-family: Libre Caslon Text, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home--yzd .ellipse-1-stroke-pJR {
+  width: 5.2rem;
+  height: 5.3rem;
+  position: absolute;
+  left: 110.7rem;
+  top: 3.4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.home--yzd .college-of-computing-information-and-sciences-8a1 {
+  width: 41rem;
+  height: 6rem;
+  position: absolute;
+  left: 26.6rem;
+  top: 2.9rem;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.23;
+  color: #d9d9d9;
+  font-family: Libre Caslon Text, 'Source Sans Pro';
+}
+.home--yzd .ccis-logo-official-1-1-1-byP {
+  width: 11.2rem;
+  height: 11.2rem;
+  position: absolute;
+  left: 9.8rem;
+  top: 0.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 6rem;
+}
+.home--yzd .line-2-6fF {
+  width: 0.1rem;
+  height: 4.5rem;
+  position: absolute;
+  left: 92.6rem;
+  top: 4.2rem;
+  background-color: #ffffff;
+}
+.home--yzd .line-3-DUy {
+  width: 0.1rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 101.8rem;
+  top: 4.3rem;
+  background-color: #ffffff;
+}
+.home--yzd .search-icon-png-21-1-vuB {
+  width: 3.4rem;
+  height: 3.4rem;
+  position: absolute;
+  left: 111.6rem;
+  top: 4.3rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.home--yzd .polygon-1-rXw {
+  width: 10rem;
+  height: 7.3rem;
+  position: absolute;
+  left: 128.8rem;
+  top: 3.6rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.home--yzd .polygon-2-ngV {
+  width: 10rem;
+  height: 7.3rem;
+  position: absolute;
+  left: 128.8rem;
+  top: 3.6rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.home--yzd .rectangle-6-iq3 {
+  width: 7.1rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 133.8rem;
+  top: 3.6rem;
+  background-color: #d9d9d9;
+}
+.home--yzd .rectangle-10-Fpy {
+  width: 7.1rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 133.8rem;
+  top: 3.6rem;
+  background-color: #d9d9d9;
+}
+.home--yzd .links-bdw {
+  width: 5.6rem;
+  height: 2rem;
+  position: absolute;
+  left: 134.6rem;
+  top: 5.6rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.23;
+  color: #000000;
+  font-family: Libre Caslon Text, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home--yzd .rectangle-8-td3 {
+  width: 3.1rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 140.9rem;
+  top: 3.6rem;
+  background-color: #f29101;
+}
+.home--yzd .arrow-1-pWh {
+  width: 122.1rem;
+  height: 47.2rem;
+  position: absolute;
+  left: 21rem;
+  top: 6.4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.home--yzd .faculty-2-1-xN1 {
+  width: 144rem;
+  height: 45.3rem;
+  position: absolute;
+  left: 0;
+  top: 18.4rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.home--yzd .rectangle-9-H9P {
+  width: 46.5rem;
+  height: 45.9rem;
+  position: absolute;
+  left: 0;
+  top: 18.4rem;
+  background-color: #d9d9d9;
+}
+.home--yzd .component-1-DYq {
+  width: 23.6rem;
+  height: 7.3rem;
+  position: absolute;
+  left: 9.2rem;
+  top: 21.2rem;
+}
+.home--yzd .component-1-DYq .polygon-3-upy {
+  width: 4.9rem;
+  height: 7.3rem;
+  position: absolute;
+  left: 11.4rem;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.home--yzd .component-1-DYq .polygon-4-qid {
+  width: 5.8rem;
+  height: 7.1rem;
+  position: absolute;
+  left: -2.9rem;
+  top: -1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.home--yzd .component-1-DYq .rectangle-11-kqb {
+  width: 13.8479rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 0rem;
+  top: 0;
+  background-color: #f29101;
+}
+.home--yzd .component-1-DYq .event-W45 {
+  width: 9.4rem;
+  height: 3rem;
+  position: absolute;
+  left: 2.1rem;
+  top: 1.2rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.23;
+  color: #000000;
+  font-family: Libre Caslon Text, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home--yzd .ccis-general-assembly-QQM {
+  width: 34.7rem;
+  height: 9.9rem;
+  position: absolute;
+  left: 9.2rem;
+  top: 28.5rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.23;
+  color: #000000;
+  font-family: Libre Caslon Text, 'Source Sans Pro';
+}
+.home--yzd .rectangle-12-uc1 {
+  width: 31.7rem;
+  height: 1.1rem;
+  position: absolute;
+  left: 9.2rem;
+  top: 39.4rem;
+  background-color: #f29101;
+}
+.home--yzd .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-Cb7 {
+  width: 33.5rem;
+  height: 6rem;
+  position: absolute;
+  left: 10.2rem;
+  top: 42.6rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.23;
+  color: #000000;
+  font-family: Libre Caslon Text, 'Source Sans Pro';
+}
+.home--yzd .rectangle-13-rQm {
+  width: 11.6rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 13.2rem;
+  top: 51.2rem;
+  background-color: #d9d9d9;
+}
+.home--yzd .rectangle-14-BC9 {
+  width: 3.1rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 24.8rem;
+  top: 51.1rem;
+  background-color: #f29101;
+}
+.home--yzd .learn-more-hwB {
+  width: 10.6rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 13.8rem;
+  top: 53rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.23;
+  color: #000000;
+  font-family: Libre Caslon Text, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home--yzd .apply-newsevents-campus-website-tour-RMP {
+  width: 46.4rem;
+  height: 2rem;
+  position: absolute;
+  left: 8.1rem;
+  top: 15.6rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.23;
+  color: #003e11;
+  font-family: Libre Caslon Text, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home--yzd .polygon-5-unM {
+  width: 1.2rem;
+  height: 0.8rem;
+  position: absolute;
+  left: 13.8rem;
+  top: 16.1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.home--yzd .polygon-6-eV3 {
+  width: 1.2rem;
+  height: 0.8rem;
+  position: absolute;
+  left: 29.4rem;
+  top: 16.3rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.home--yzd .polygon-7-nLM {
+  width: 1.2rem;
+  height: 0.8rem;
+  position: absolute;
+  left: 38.8rem;
+  top: 16.1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.home--yzd .polygon-8-ufs {
+  width: 1.2rem;
+  height: 0.8rem;
+  position: absolute;
+  left: 54.2rem;
+  top: 16.1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.home--yzd .arrow-2-eNZ {
+  width: 1.2rem;
+  height: 0;
+  position: absolute;
+  left: 141.9rem;
+  top: 6.4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.home--yzd .rectangle-1-an1 {
+  width: 48.6rem;
+  height: 18.3rem;
+  position: absolute;
+  left: 1.2rem;
+  top: 59.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 0.8rem;
+}
+.home--yzd .com-soc-logo-1-hrd {
+  width: 8.6rem;
+  height: 8.9rem;
+  position: absolute;
+  left: 5.1rem;
+  top: 62.9rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 11.7rem;
+}
+.home--yzd .rectangle-15-Dpy {
+  width: 145.2rem;
+  height: 10.5rem;
+  position: absolute;
+  left: 0;
+  top: 94.6rem;
+  box-shadow: inset 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25)), 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25), 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25), 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #f29101;
+}
+.home--yzd .computer-society-TzD {
+  width: 28.4rem;
+  height: 3rem;
+  position: absolute;
+  left: 15.5rem;
+  top: 63.3rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.23;
+  color: #000000;
+  font-family: Libre Caslon Text, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home--yzd .line-4-mk1 {
+  width: 30rem;
+  height: 0;
+  position: absolute;
+  left: 16.8rem;
+  top: 66.5rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.home--yzd .rectangle-17-ubK {
+  width: 24.5rem;
+  height: 21.1rem;
+  position: absolute;
+  left: 33.4rem;
+  top: 67.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 2.4rem;
+}
+.home--yzd .fun-1-1-SLM {
+  width: 42rem;
+  height: 27.3rem;
+  position: absolute;
+  left: 55.4rem;
+  top: 65.5rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1.7rem;
+}
+.home--yzd .ellipse-2-ZQy {
+  width: 11.8rem;
+  height: 11.1rem;
+  position: absolute;
+  left: 3.5354rem;
+  top: 62.1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.home--yzd .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-ti9 {
+  width: 30.6rem;
+  height: 7.9rem;
+  position: absolute;
+  left: 17.1rem;
+  top: 67.4rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.23;
+  color: #000000;
+  font-family: Libre Caslon Text, 'Source Sans Pro';
+}
+.home--yzd .rectangle-19-kVT {
+  width: 37.3rem;
+  height: 11.3rem;
+  position: absolute;
+  left: 6.7rem;
+  top: 79.2rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.home--yzd .featured-photos-from-the-event-UAZ {
+  width: 26.8rem;
+  height: 6rem;
+  position: absolute;
+  left: 11.4rem;
+  top: 81.8rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.23;
+  color: #000000;
+  font-family: Libre Caslon Text, 'Source Sans Pro';
+}
+.home--yzd .arrow-3-MVF {
+  width: 1.35rem;
+  height: 0.06rem;
+  position: absolute;
+  left: 40.6rem;
+  top: 84.9rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.home--yzd .arrow-4-48m {
+  width: 1.35rem;
+  height: 0.06rem;
+  position: absolute;
+  left: 25.6rem;
+  top: 54rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.home--yzd .logo-facebookpng-32204-1-mJ5 {
+  width: 3.2rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 130.6rem;
+  top: 97.1rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.home--yzd .logo-instagram-2444-1-gR3 {
+  width: 3.3rem;
+  height: 3.1rem;
+  position: absolute;
+  left: 134.5rem;
+  top: 97rem;
+  object-fit: cover;
+  vertical-align: top;
+}
